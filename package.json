@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter-brown",
+  "version": "0.0.1",
+  "description": "Simple number formatter as a test node module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminmbrown/number-formatter-brown.git"
+  },
+  "keywords": [
+    "formatter"
+  ],
+  "author": "Benjamin M. Brown <benjaminbb@gmail.com> (http://twitter.com/benjaminmbrown)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminmbrown/number-formatter-brown/issues"
+  },
+  "homepage": "https://github.com/benjaminmbrown/number-formatter-brown#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
