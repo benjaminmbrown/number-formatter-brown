@@ -1,14 +1,14 @@
 {
   "name": "number-formatter-brown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple number formatter as a test node module",
   "main": "index.js",
   "engines": {
     "node": ">=0.12.6"
   },
-"scripts": {
-  "test": "mocha --reporter spec"
-},
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/benjaminmbrown/number-formatter-brown.git"
