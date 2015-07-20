@@ -16,30 +16,30 @@ describe ('#numFormatter', function(){
 	});
 
 	it('should convert triple digits', function(){
-		var resule = numFormatter(123);
+		var result = numFormatter(123);
 		expect(result).to.equal('123');
 	});
 
 	it('should convert 4 digits', function(){
-		var resule = numFormatter(1234);
+		var result = numFormatter(1234);
 		expect(result).to.equal('1,234');
 	});
 
 	it('should convert 5 digits', function(){
-		var resule = numFormatter(12345);
+		var result = numFormatter(12345);
 		expect(result).to.equal('12,345');
 	});
 	it('should convert 6 digits', function(){
-		var resule = numFormatter(123456);
+		var result = numFormatter(123456);
 		expect(result).to.equal('123,456');
 	});
 
 	it('should convert 7 digits', function(){
-		var resule = numFormatter(1234567);
+		var result = numFormatter(1234567);
 		expect(result).to.equal('1,234,567');
 	});
 	it('should convert 8 digits', function(){
-		var resule = numFormatter(12345678);
+		var result = numFormatter(12345678);
 		expect(result).to.equal('12,345,678');
 	});
 });
