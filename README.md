@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/benjaminmbrown/number-formatter-brown.svg?branch=master)](https://travis-ci.org/benjaminmbrown/number-formatter-brown)
 
+
+[![Coverage Status](https://coveralls.io/repos/benjaminmbrown/number-formatter-brown/badge.svg?branch=master&service=github)](https://coveralls.io/github/benjaminmbrown/number-formatter-brown?branch=master)
+
 Brown's Number Formatter
 =========
 

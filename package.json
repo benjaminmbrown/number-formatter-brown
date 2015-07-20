@@ -6,9 +6,9 @@
   "engines": {
     "node": ">=0.12.6"
   },
-  "scripts": {
-    "test": "mocha --reporter spec"
-  },
+"scripts": {
+  "test": "mocha --reporter spec"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/benjaminmbrown/number-formatter-brown.git"
