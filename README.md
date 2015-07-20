@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/mochajs/mocha.svg?branch=master)](http://travis-ci.org/mochajs/mocha) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mochajs/mocha?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/benjaminmbrown/number-formatter-brown.svg?branch=master)](https://travis-ci.org/benjaminmbrown/number-formatter-brown)
 
 Brown's Number Formatter
 =========
